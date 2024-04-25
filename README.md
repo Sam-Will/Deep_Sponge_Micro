@@ -4,9 +4,9 @@ Welcome to the **Deep_Sponge_Micro** GitHub repository. This repository is dedic
 
 ## Repository Contents
 
-- **BISECT.physeq.RData**: This Rdata file contains the Phyloseq object used for analysis. You can load this into R and analyze the microbiome data with the phyloseq package.
 - **Qiime2_pipeline.sh**: This script outlines the QIIME2 pipeline used for initial amplicon processing from raw reads into ASVs (Amplicon Sequence Variants) with assigned taxonomy.
 - **Phyloseq_creation.R**: This R script is for creating the Phyloseq object from the Qiime2 pipeline output.
+- **BISECT.physeq.RData**: This Rdata file contains the Phyloseq object used for analysis. You can load this into R and analyze the microbiome data with the phyloseq package.
 
 ## Data Availability
 
